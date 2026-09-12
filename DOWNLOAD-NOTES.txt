@@ -1,0 +1,7 @@
+GPU Pricing Calculator source export
+
+Includes application source, shared libraries, package manifests and lockfile, scripts, Replit configuration, and the original Excel workbook.
+
+Excludes installed dependencies, compiled build output, secrets/environment files, database contents, Git history, internal agent files, and chat screenshots. This archive is source code, not a standalone installer.
+
+Use Node.js and pnpm to install dependencies. The project uses Replit-managed workflows; local execution may require PORT and BASE_PATH configuration and separate setup of any backend services.
